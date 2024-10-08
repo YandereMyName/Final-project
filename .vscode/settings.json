@@ -3,5 +3,7 @@
         "activityBar.background": "#153322",
         "titleBar.activeBackground": "#1D4830",
         "titleBar.activeForeground": "#F5FBF8"
-    }
+    },
+    "liveServer.settings.port": 5501,
+    "livePreview.defaultPreviewPath": "/page Portfolio/index.html"
 }
